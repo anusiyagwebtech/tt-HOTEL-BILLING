@@ -1,0 +1,2 @@
+[15-Mar-2017 14:08:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mPDF has a deprecated constructor in /home/appointm/public_html/adminlogin/pdf/MPDF53/mpdf.php on line 57
+[15-Mar-2017 14:10:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mPDF has a deprecated constructor in /home/appointm/public_html/adminlogin/pdf/MPDF53/mpdf.php on line 57

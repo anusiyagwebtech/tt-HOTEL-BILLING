@@ -1,0 +1,116 @@
+<table style="width:100%; font-family:arial; font-size:20px;" >
+    <tr><td style="width:100%;text-align:right;font-size:20px;">  04:42 pm </td><td></td></tr>
+    </table>
+    <table style="width:100%; font-family:arial; font-size:20px;" >
+
+                <tr>
+                <td><img src='https://demolink.co.in/annamalaiyarfinance/pages/profile/image/1548316154.jpg' height='100' /></td> <td></td>
+                    <td style="width:100%; border-bottom:1px solid #CC0063;text-align:center;font-size:20px;"><h2 style="color:#CC0063;" >ANNAMALAIYAR FINANCE</h2><h4>2/99, Thirumogur Rd, Y.Otthakadai, Madurai-625107</h4><h5 style="align:right;">P.B.L.No: 6/2017-2018</h5></td>    
+</tr>
+
+                </table>
+                <table style="width:100%; border-bottom:1px solid #CC0063; padding:2%; font-size:20px;" >
+                <tr>
+
+                    <td width="60%" align="left"><table><tbody>	
+                        <tr><td></td><td></td><td></td></tr>
+                        <tr><td></td><td></td><td></td></tr>
+                         <tr> </tr>
+                        <tr>
+
+				<td style="vertical-align:top"><small><strong>Receipt No</strong></small></td>
+				<td style="vertical-align:top"><small>:</small></td>
+				<td style="vertical-align:top"><small><strong>1827</strong></small></td>
+
+       
+      
+        
+         <td style="vertical-align:top"><img src='https://demolink.co.in/annamalaiyarfinance/img/customer/' height='100' /></td>
+                                
+			</tr>
+                           
+			<tr>
+				<td style="vertical-align:top"><small><strong>Customer ID</strong></small></td>
+				<td style="vertical-align:top"><small>:</small></td>
+				<td style="vertical-align:top"><small><strong>AN374</strong></small></td>
+			</tr>
+			<tr>
+				<td style="vertical-align:top"><small><strong>Customer Name</strong></small></td>
+				<td style="vertical-align:top"><small>:</small></td>
+				<td style="vertical-align:top"><small><strong>S.SANTHI</strong></small></td>
+			</tr>	
+                        <tr>
+		       <td style="vertical-align:top"><small><strong>Mobile Number</strong></small></td>
+		       <td style="vertical-align:top"><small>:</small></td>
+		       <td style="vertical-align:top"><small><strong>7094269403</strong></small></td>
+		       </tr>
+                       <tr>
+				<td style="vertical-align:top"><small><strong>ID Proof</strong></small></td>
+				<td style="vertical-align:top"><small>:</small></td>
+				<td style="vertical-align:top"><small><strong>AD</strong></small></td>
+			</tr>
+                       <tr>
+		       <td style="vertical-align:top"><small><strong>Address</strong></small></td>
+		       <td style="vertical-align:top"><small>:</small></td>
+		       <td style="vertical-align:top"><small><strong>W\O CHANDRASEGARAN
+ANNAMALAINAGAR
+OTHAKADAI</strong></small></td>
+		       </tr>
+                       <tr>
+				<td style="vertical-align:top"><small><strong>Value of Items</strong></small></td>
+				<td style="vertical-align:top"><small>:</small></td>
+				<td style="vertical-align:top"><small><strong>6200</strong></small></td>
+			</tr>
+                       <tr>
+				<td style="vertical-align:top"><small><strong>Duration of Return</strong></small></td>
+				<td style="vertical-align:top"><small>:</small></td>
+				<td style="vertical-align:top"><small><strong> 1 Year</strong></small></td>
+			</tr>
+
+                       </tbody></table>
+                          </td>
+                  </tr> </table><br>
+                   <td style="align:center"></td><br><br>
+ <br>
+                  <table border="1" style="width:100%; border-bottom:1px solid #CC0063; padding:2%; font-size:20px;" >
+                          <tr>
+                           
+                            <th> Entry Date </th> 
+                            <th> Items </th>
+                            <th> Net Weight </th>
+                            <th> Total Quantity </th>
+                            <th> Amount </th>
+                            
+                          </tr> <tr>
+
+                              
+                                  <td>20-11-2021</td>
+                                
+
+
+
+            <td><p>studs-2</p></td>
+     
+  <td>1.9</td>
+                                            <td>2</td>
+                                                <td>6000</td>
+                                                                        
+                          </tr>
+                         </table> 
+                   
+               
+             <table style="width:100%; border-bottom:1px solid #CC0063; padding:2%; font-size:13px;" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td width="100%" align="left">
+                        <table style="width:100%; font-size:13px;">
+                           <tr>
+                           <td><strong>Rupees in Words : Six thousand Rupees  Only/-</strong></td>
+                           </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="width:100%; border-bottom:1px solid #CC0063; padding:2%; font-size:18px;" cellpadding="0" cellspacing="0">
+             <tr><td align="left"> <label>Customer Signature: </label> </td>
+                <td align="center"> <label>Agent Signature: </label> </td></tr>
+                </table>

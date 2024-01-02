@@ -1,0 +1,74 @@
+[04-Apr-2018 07:26:04 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 07:26:04 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 361
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 367
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 368
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 369
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[04-Apr-2018 12:56:04 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:04:56 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:34:56 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:34:56 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:34:56 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:34:56 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:34:56 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:04:59 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:04:59 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:34:59 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:34:59 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:34:59 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:34:59 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:34:59 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:05:01 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:05:01 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:35:01 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:35:01 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:35:01 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:35:01 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:35:01 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:05:03 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:05:03 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:35:03 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:35:03 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:35:03 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:35:03 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:35:03 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:05:09 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:05:09 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:35:09 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:35:09 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:35:09 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:35:09 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:35:09 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:07:46 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:07:46 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:37:46 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:37:46 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:37:46 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:37:46 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:37:46 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:08:40 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:08:40 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[13-Apr-2018 06:08:40 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 06:08:40 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[13-Apr-2018 11:38:40 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
+[03-May-2018 06:28:47 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[03-May-2018 06:28:47 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[03-May-2018 11:58:47 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[03-May-2018 11:58:47 Asia/Calcutta] PHP Notice:  Undefined index: UID in /home/clicktlq/public_html/demo/admin/pages/login.php on line 5
+[03-May-2018 11:58:47 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/login.php on line 100
+[03-May-2018 11:58:47 Asia/Calcutta] PHP Notice:  Undefined index: lemail in /home/clicktlq/public_html/demo/admin/pages/login.php on line 108
+[03-May-2018 11:58:47 Asia/Calcutta] PHP Notice:  Undefined index: lpass in /home/clicktlq/public_html/demo/admin/pages/login.php on line 112
